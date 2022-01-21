@@ -1,6 +1,8 @@
 ### 🙃 About me
-🙋 Hey ! I'm Dimitri, I'm based in Dieppe, France, and I'm currently studying to become a web developer at the AFPA.
-✈️ I started my developer journey (recreationally) a few years ago but I've been wanting to become a web developer (professionally) for 2 years.
+🙋 Hey ! I'm Dimitri, I'm based in Dieppe, France, and I'm currently studying to become a web developer at the AFPA.\
+✈️ I started my developer journey (recreationally) a few years ago but I've been wanting to become a web developer (professionally) for 2 years.\
+📚 I love scouring the corners of the web to find tons of tips and best practices.\
+💖 Working on animation and beautiful user interaction is what I prefer to do.\
 
 ### 💪 What I do now...
 
@@ -15,6 +17,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)\
 ⏳\
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)\
+
 👀\
+![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)\
