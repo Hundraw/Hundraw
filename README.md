@@ -8,8 +8,6 @@
 
 <img alt="HTML" src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width=350px align="right"/>
 
-### 💪 What I do now...
-
 ### 🔍 Some projects
 - [colorfulBrain](https://github.com/Hundraw/colorfulBrain)
 
