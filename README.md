@@ -6,6 +6,8 @@
 📚 I love exploring the corners of the web to find tons of tips and best practices.\
 💖 Working on animation and beautiful user interaction is what I prefer to do.
 
+<img alt="HTML" src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/giphy.gif" width=350px align="right"/>
+
 ### 💪 What I do now...
 
 ### 🔍 Some projects
@@ -18,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
 ###### ⏳currently under study
-
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)&nbsp;
