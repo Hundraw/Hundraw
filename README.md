@@ -19,8 +19,8 @@
 ######⏳currently under study
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=wh&nbsp;e)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)&nbsp;
 
 ###### 👀
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
