@@ -24,5 +24,5 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ###### 👀 what I would like to learn
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
-![GSAP](https://img.shields.io/badge/-GSAP-#88CE02?style=flat&logo=greensock&logoColor=white)&nbsp;
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
