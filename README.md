@@ -2,7 +2,7 @@
 🙋 Hey ! I'm Dimitri, I'm based in Dieppe, France, and I'm currently studying to become a web developer at the AFPA.\
 ✈️ I started my developer journey (recreationally) a few years ago but I've been wanting to become a web developer (professionally) for 2 years.\
 📚 I love exploring the corners of the web to find tons of tips and best practices.\
-💖 Working on animation and beautiful user interaction is what I prefer to do.\
+💖 Working on animation and beautiful user interaction is what I prefer to do.
 
 ### 💪 What I do now...
 
